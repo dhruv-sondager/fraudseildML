@@ -1,0 +1,13 @@
+.git
+.github
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.zip
+tools/cloudflared.exe
+outputs/test_*.log
+outputs/tunnel_*.log
